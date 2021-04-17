@@ -1,0 +1,6 @@
+#shift *{
+	border: solid black 1px;
+}
+table, thead, tbody, td, th {
+	border: 2px #ff0000 solid;
+}
